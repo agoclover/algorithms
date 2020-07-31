@@ -36,11 +36,23 @@
 
 对于 java 学习者, 这里再推荐一些被广泛认可的学习与面试指南仓库:
 
-[Snailclimb/JavaGuide](Snailclimb/JavaGuide) : 一份涵盖大部分 java 程序员所需要掌握的核心知识.
+[Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) 
 
-[fuzhengwei/CodeGuide](https://github.com/fuzhengwei/CodeGuide) : 本代码库是作者多年从事一线互联网 java 开发的学习历程技术汇总, 旨在为大家提供一个清晰详细的学习教程, 侧重点更倾向编写 java核心内容. 
+一份涵盖大部分 java 程序员所需要掌握的核心知识.
 
-[DreamCats/JavaBooks](https://github.com/DreamCats/JavaBooks) : 一位备战校招的同学的 java 学习笔记汇总.
+
+
+[fuzhengwei/CodeGuide](https://github.com/fuzhengwei/CodeGuide) 
+
+本代码库是作者多年从事一线互联网 java 开发的学习历程技术汇总, 旨在为大家提供一个清晰详细的学习教程, 侧重点更倾向编写 java核心内容. 
+
+
+
+[DreamCats/JavaBooks](https://github.com/DreamCats/JavaBooks) 
+
+一位备战校招的同学的 java 学习笔记汇总.
+
+
 
 
 
@@ -50,49 +62,79 @@
 
 ### 排序
 
-先来点开胃菜? 对于排序, 给出以下推荐:
+[hustcc/JS-Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm) 
 
-[hustcc/JS-Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm) : 一本关于排序算法的 GitBook 在线书籍 《十大经典排序算法》, 多语言实现.
+一本关于排序算法的 GitBook 在线书籍 《十大经典排序算法》, 多语言实现.
 
 你也可以在线阅读: https://sort.hust.cc/
 
 
 
+
+
 ### Leetcode 解题参考
 
-[azl397985856/leetcode](https://github.com/0voice/interview_internal_reference) : 这个仓库记录了作者的 Leetcode 解题之路, 给出了小白如何刷 Leetcode 的建议, 并给出了一些问题的总结, anki 卡片等.
+[azl397985856/leetcode](https://github.com/0voice/interview_internal_reference) 
 
-[grandyang/leetcode](https://github.com/grandyang/leetcode) : 这个仓库提供了对于所有 Leetcode 问题的作者的解决方案以及中文解释.
+这个仓库记录了作者的 Leetcode 解题之路, 给出了小白如何刷 Leetcode 的建议, 并给出了一些问题的总结, anki 卡片等.
+
+
+
+[grandyang/leetcode](https://github.com/grandyang/leetcode) 
+
+这个仓库提供了对于所有 Leetcode 问题的作者的解决方案以及中文解释.
+
+
 
 
 
 ### 剑指 offer 解题参考
 
-[hackhu2019/offer](https://github.com/hackhu2019/offer) : 这个仓库把剑指 offer 的题目用 Java 语言 (书中是 C++) 实现了一遍, 希望能给大家一些参考.
+[hackhu2019/offer](https://github.com/hackhu2019/offer) 
+
+这个仓库把剑指 offer 的题目用 Java 语言 (书中是 C++) 实现了一遍, 希望能给大家一些参考.
+
+
 
 
 
 ### 大厂算法面经题
 
-[afatcoder/LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) : 如果时间仓促, 后端程序员可以参考这个仓库进行有针对性性地刷题: 
+[afatcoder/LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) 
 
-[0voice/interview_internal_reference](https://github.com/0voice/interview_internal_reference) : 本仓库给出了2020年最新大厂技术面试总结, 阿里, 腾讯, 百度, 美团, 头条等技术面试题目, 以及答案, 专家出题人分析汇总.
+如果时间仓促, 后端程序员可以参考这个仓库进行有针对性性地刷题.
+
+
+
+[0voice/interview_internal_reference](https://github.com/0voice/interview_internal_reference) 
+
+本仓库给出了2020年最新大厂技术面试总结, 阿里, 腾讯, 百度, 美团, 头条等技术面试题目, 以及答案, 专家出题人分析汇总.
+
+
 
 
 
 ### 技术面试基础知识
 
-[CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) : 本项目包含了技术面试必备的基础知识, 内容浅显易懂, 你不需要花很长的时间去阅读和理解成堆的技术书籍就可以快速掌握这些知识, 从而节省宝贵的面试复习时间. 可以优先 Leetcode, 其次剑指 offer.
+[CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) 
+
+本项目包含了技术面试必备的基础知识, 内容浅显易懂, 你不需要花很长的时间去阅读和理解成堆的技术书籍就可以快速掌握这些知识, 从而节省宝贵的面试复习时间. 可以优先 Leetcode, 其次剑指 offer.
 
 也可以在线进行阅读: https://cyc2018.github.io/CS-Notes/#/README
 
 
 
+
+
 ### 算法解题思路与模板
 
-[labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) : 本仓库总共 60 多篇原创文章, 都是基于 LeetCode 的题目, 涵盖了所有题型和技巧, 而且一定要做到举一反三, 通俗易懂. 本仓库涉及的范围很广, 难度可能也比较高, 但有很多值得记住的套路或模板, 可以阅读和记忆.
+[labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) 
+
+本仓库总共 60 多篇原创文章, 都是基于 LeetCode 的题目, 涵盖了所有题型和技巧, 而且一定要做到举一反三, 通俗易懂. 本仓库涉及的范围很广, 难度可能也比较高, 但有很多值得记住的套路或模板, 可以阅读和记忆.
 
 也可以在线进行阅读: https://labuladong.gitbook.io/algo/
+
+
 
 
 
