@@ -124,6 +124,10 @@
 
 
 
+[CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes)
+
+此仓库收藏了一些技术面试必备基础知识、Leetcode、计算机操作系统等, 附有牛客网的面经汇总.
+
 
 
 ### 算法解题思路与模板
