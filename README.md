@@ -9,13 +9,19 @@
 
 ## Solutions
 
-### 1-Linkedlist
+### Linkedlist
 
-[1-0-Linkedlist Overview](DS/Linkedlist/1-0-Linkedlist-Overview.md)
+[Linkedlist Overview](DS/Linkedlist/Linkedlist-Overview.md)
 
-[1-1-判断单链表是否有环](DS/Linkedlist/1-1-判断单链表是否有环.md)
+[找出两个单链表的交点](DS/Linkedlist/找出两个单链表的交点.md)
 
-[1-2-找出两个单链表的交点](DS/Linkedlist/1-2-找出两个单链表的交点.md)
+[反转链表](DS/Linkedlist/反转链表.md)
+
+[判断单链表是否有环](DS/Linkedlist/判断单链表是否有环.md)
+
+[旋转链表](DS/Linkedlist/旋转链表.md)
+
+[重排链表](DS/Linkedlist/重排链表.md)
 
 
 
