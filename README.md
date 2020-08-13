@@ -28,6 +28,16 @@
 ### Queue
 
 
+
+## Positional Notation
+
+[用rand7产生rand10](DS/PositionalNotation/用rand7产生rand10.md)
+
+
+
+
+
+
 ## In C
 
 http://data.biancheng.net/ 是一个非常适合新手入门的数据结构在线教程, 其中的代码示例为 C 语言.这套课程可以和[数据结构与算法分析 - C语言描述](https://book.douban.com/subject/1139426/)一起阅读.
