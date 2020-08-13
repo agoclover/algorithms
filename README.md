@@ -1,6 +1,8 @@
 # README
 本仓库用于记录本人学习算法的历程和感悟, 以及推荐一些卓越的算法学习仓库.
 
+本文档会使用 Latex 公式, 你可以通过在 Chrome 中添加 [MathJax Plugin for Github](MathJax Plugin for Github) 插件获得更好的阅读体验.
+
 如果你觉得本仓库对你有所帮助, 不妨给我点一个 ✨.
 
 
